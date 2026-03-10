@@ -1,0 +1,28 @@
+baseURL = 'https://webaoplus.github.io/website-audit/'
+languageCode = 'en-us'
+title = 'DigiAds - Website Audit Reports'
+theme = 'PaperMod'
+
+[params]
+  author = 'DigiAds'
+  description = 'Professional website audit reports for Indian businesses'
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  hideSummary = true
+  
+[params.homeInfoParams]
+  Title = "Website Audit Reports"
+  Content = "Comprehensive digital presence analysis by DigiAds"
+
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'reports'
+    name = 'Reports'
+    url = '/reports/'
+    weight = 20
