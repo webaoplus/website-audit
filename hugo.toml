@@ -1,4 +1,4 @@
 baseURL = 'https://webaoplus.github.io/website-audit/'
 languageCode = 'en-us'
 title = 'website-audit'
-theme = 'PaperMod'
+theme = 'anake'
