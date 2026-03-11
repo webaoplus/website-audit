@@ -1,4 +1,23 @@
 baseURL = 'https://webaoplus.github.io/website-audit/'
 languageCode = 'en-us'
-title = 'website-audit'
+title = 'DigiAds - Website Audit Reports'
 theme = 'PaperMod'
+
+[params]
+  author = 'DigiAds'
+  description = 'Professional website audit reports'
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'reports'
+    name = 'Reports'
+    url = '/posts/'
+    weight = 20
