@@ -10,6 +10,10 @@ theme = 'PaperMod'
   ShowShareButtons = false
   ShowPostNavLinks = false
 
+[params.homeInfoParams]
+  Title = "DigiAds - Website Audit Reports"
+  Content = "Comprehensive digital presence analysis for Indian businesses"
+
 [menu]
   [[menu.main]]
     identifier = 'home'
