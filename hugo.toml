@@ -10,6 +10,8 @@ theme = 'PaperMod'
   ShowShareButtons = false
   ShowPostNavLinks = false
   hideSummary = true
+  analytics = false
+  googleAnalytics = ""
   
 [params.homeInfoParams]
   Title = "Website Audit Reports"
